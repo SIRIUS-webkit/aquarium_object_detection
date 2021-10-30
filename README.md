@@ -46,6 +46,10 @@ you must add [custom_data.yaml](https://github.com/SIRIUS-webkit/aquarium_object
 
 You can change whatever you want like **img size**, **batch size**, **epoches** etc.
 
+# Video Result
+
+https://github.com/SIRIUS-webkit/aquarium_object_detection/blob/master/assets/lv_0_20211030123922.mp4
+
 # Results
 
 After training for 300 epoches,
