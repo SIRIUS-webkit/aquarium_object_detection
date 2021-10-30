@@ -3,6 +3,10 @@
 Life in the sea: it’s a whole other world down there. Underwater animals are widely varied and have adapted to their different environments across our planet’s marine habitats.
 In this repository, we will build an aquarium object detection system using [yolov5](https://github.com/ultralytics/yolov5).
 
+There are 7 classes that we detected.
+
+"fish", "jellyfish", "penguin", "puffin", "shark", "starfish", "stingray"
+
 ![test image](https://github.com/SIRIUS-webkit/aquarium_object_detection/blob/master/assets/test.jpg)
 
 # Dataset
