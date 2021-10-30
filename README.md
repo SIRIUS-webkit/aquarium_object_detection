@@ -48,7 +48,7 @@ You can change whatever you want like **img size**, **batch size**, **epoches** 
 
 # Video Result
 
-[![Result](https://i.ytimg.com/vi/y_3t50zB-2g/hqdefault.jpg)](https://youtu.be/y_3t50zB-2g "Result")
+[![Result](https://res.cloudinary.com/marcomontalbano/image/upload/v1635575493/video_to_markdown/images/youtube--HhusD3v-nbA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/HhusD3v-nbA "Result")
 
 # Results
 
