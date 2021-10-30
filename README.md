@@ -48,7 +48,7 @@ You can change whatever you want like **img size**, **batch size**, **epoches** 
 
 # Video Result
 
-https://github.com/SIRIUS-webkit/aquarium_object_detection/blob/master/assets/lv_0_20211030123922.mp4
+[![Result](https://i.ytimg.com/vi/y_3t50zB-2g/hqdefault.jpg)](https://youtu.be/y_3t50zB-2g "Result")
 
 # Results
 
